@@ -1,0 +1,15 @@
+E:\WPF practice\wpf_udemy\calculator\calculator\bin\Debug\calculator.exe.config
+E:\WPF practice\wpf_udemy\calculator\calculator\bin\Debug\calculator.exe
+E:\WPF practice\wpf_udemy\calculator\calculator\bin\Debug\calculator.pdb
+E:\WPF practice\wpf_udemy\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+E:\WPF practice\wpf_udemy\calculator\calculator\obj\Debug\MainWindow.g.cs
+E:\WPF practice\wpf_udemy\calculator\calculator\obj\Debug\App.g.cs
+E:\WPF practice\wpf_udemy\calculator\calculator\obj\Debug\calculator_MarkupCompile.cache
+E:\WPF practice\wpf_udemy\calculator\calculator\obj\Debug\calculator_MarkupCompile.lref
+E:\WPF practice\wpf_udemy\calculator\calculator\obj\Debug\MainWindow.baml
+E:\WPF practice\wpf_udemy\calculator\calculator\obj\Debug\calculator.g.resources
+E:\WPF practice\wpf_udemy\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\WPF practice\wpf_udemy\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+E:\WPF practice\wpf_udemy\calculator\calculator\obj\Debug\calculator.exe
+E:\WPF practice\wpf_udemy\calculator\calculator\obj\Debug\calculator.pdb
+E:\WPF practice\wpf_udemy\calculator\calculator\obj\Debug\App.baml
